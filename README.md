@@ -48,6 +48,3 @@ Git · GitHub · Postman · VS Code · NPM · Agile/Scrum basics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PriyaDev04&label=Profile%20Views&color=0e75b6&style=flat)
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=PriyaDev04&label=Profile%20Views&color=0e75b6&style=flat)
