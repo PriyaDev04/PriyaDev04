@@ -4,6 +4,8 @@
 
 I’m a MERN Stack Developer passionate about crafting scalable, high-performance, and user-friendly web applications. With a strong foundation in JavaScript, React.js, Node.js, Express.js, and MongoDB, I focus on building products that combine clean architecture with great user experience.
 
+💻 Proficient in React.js, Node.js, Express.js, and MongoDB
+
 🚀 Experienced in REST API development & Microservices architecture
 
 🎨 Skilled in creating responsive UIs with Material-UI, Tailwind CSS & Bootstrap
