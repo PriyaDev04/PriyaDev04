@@ -39,10 +39,6 @@ Git · GitHub · Postman · VS Code · NPM · Agile/Scrum basics
 
 🌍 Connect With Me
 
-💼 LinkedIn
-
-🖥️ GitHub
-
 📧 Email: deveppriya0406@gmail.com
 
 
